@@ -1,0 +1,61 @@
+# Blender MTL File: 'wolf.blend'
+# Material Count: 6
+
+newmtl eye
+Ns 96.078431
+Ka 0.200000 0.200000 0.200000
+Kd 0.775949 0.800000 0.752325
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl eye3
+Ns 501.960784
+Ka 0.200000 0.200000 0.200000
+Kd 0.405655 0.234073 0.083684
+Ks 0.260870 0.260870 0.260870
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl mouth
+Ns 390.196078
+Ka 0.100000 0.100000 0.100000
+Kd 0.207839 0.096596 0.116260
+Ks 0.500000 0.467418 0.453376
+Ni 1.000000
+d 1.000000
+illum 5
+map_Kd C:\Users\mnphmnmn\Desktop\NAM\White_wolf-hi-res.jpg
+
+newmtl wolf_black
+Ns 390.196078
+Ka 0.050000 0.050000 0.050000
+Kd 0.008598 0.008598 0.008598
+Ks 0.978261 0.978261 0.978261
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:\Users\mnphmnmn\Desktop\NAM\wolf_diffuse.jpg
+
+newmtl wolf_black_NONE
+Ns 390.196078
+Ka 0.050000 0.050000 0.050000
+Kd 0.008598 0.008598 0.008598
+Ks 0.978261 0.978261 0.978261
+Ni 1.000000
+d 1.000000
+illum 3
+
+newmtl wolf_difuse
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.130114 0.130114 0.130114
+Ks 0.001000 0.001000 0.001000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\mnphmnmn\Desktop\NAM\wolf_diffuse.jpg
+map_Bump C:\\Users\\mnphmnmn\\Desktop\\NAM\\normal1.jpg
+map_Ns C:\\Users\\mnphmnmn\\Desktop\\NAM\\ao.jpg
